@@ -1,0 +1,1 @@
+# This architecture uses azcoops managed storage
