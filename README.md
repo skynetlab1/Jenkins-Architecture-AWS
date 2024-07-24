@@ -1,4 +1,3 @@
 # Jenkins-Architecture-AWS
 Jenkins architecture on AWS
-
-<iframe src="https://onedrive.live.com/embed?resid=B0893B0CDC5620B%2127755&authkey=!AGuQlaPTUv2ZC0Y&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+![Screenshot 2024-07-24 230956](https://github.com/user-attachments/assets/c3fd2222-b259-4c57-9534-a509c3338bbd)
